@@ -1,0 +1,8 @@
+falcon==0.3.0
+mock==1.0.1
+pytest==2.7.1
+SQLAlchemy==1.0.5
+structlog==15.2.0
+WebTest==2.0.18
+Werkzeug==0.10.4
+wsgicors==0.4.1
